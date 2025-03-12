@@ -1,4 +1,4 @@
-baseURL = 'https://centro-de-formacion-somorrostro.github.io/demostradorcicd/'
+baseURL = 'https://mikel-diez.github.io/demostradorcicd/'
 languageCode = 'en-us'
 title = 'AI CICD Demo platform'
 theme = 'hugo-theme-relearn'
