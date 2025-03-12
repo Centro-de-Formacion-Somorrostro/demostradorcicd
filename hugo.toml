@@ -1,0 +1,25 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'AI CICD Demo'
+theme = 'hugo-theme-relearn'
+
+[params]
+  themeVariant = ['relearn-dark', 'relearn-light']
+
+defaultContentLanguage = 'en'
+
+
+[languages]
+  [languages.en]
+    contentDir = 'content/en'
+    languageCode = 'en'
+    languageName = 'English'
+    title = 'My Website'
+    weight = 1
+
+#  [languages.es]
+#    languageCode = 'es'
+#    #languageDirection = 'rtl'
+#    languageName = 'Español'
+#    title = 'Plataforma CICD AI'
+#    weight = 2
